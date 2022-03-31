@@ -1,2 +1,3 @@
 # Redirects from what the browser requests to what we serve
 /frontend-mentor-faq-accordion-card/*   https://claucia-frontend-mentor-faq-accordion-card.netlify.app/:splat     200
+/hello/*                                https://heroic-custard-ac4593.netlify.app/:splat                          200
