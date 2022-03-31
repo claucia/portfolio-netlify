@@ -1,1 +1,1 @@
-# portfolio-netlify
+# Redirect configuration for portfolio
